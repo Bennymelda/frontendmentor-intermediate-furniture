@@ -83,14 +83,14 @@ body{
 
 nav{
     font-size: 20px;
-    gap: 50px;
+    gap: 40px;
     display: flex;
     cursor: pointer;
 }
 
 @media(max-width:380px){
 .images,.img,.image{
-    width: 385px;
+    width: 380px;
     height: 360px;
 }
 .ban,.ham,.hum{
