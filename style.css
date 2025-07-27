@@ -100,8 +100,8 @@ nav{
 .third{
     left: 180px;
     top: 250px;
-    padding: 15px 10px;
-    gap: 30px;
+    padding: 10px 5px;
+    gap: 20px;
 }
 .first{
     display: flex;
