@@ -2,8 +2,7 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    padding-left:0px;
-    margin-left:0px;
+    
 
 }
 .left,.right{
@@ -111,7 +110,7 @@ nav{
     
 }
 .d{
-    font-size: 30px;
+    font-size: 35px;
 
 }.p{
     font-size: 15px;
