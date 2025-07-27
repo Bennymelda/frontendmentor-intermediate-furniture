@@ -148,12 +148,12 @@ nav{
 }
 .four{
     display: flex;
-    gap: 100px;
+    gap: 80px;
     top: 40px;
     font-size: 30px;
     position: absolute;
     z-index: 1;
-    left: 50px;
+    left: 45px;
 }
 .c{
     display: none;
